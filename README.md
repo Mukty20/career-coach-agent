@@ -1,6 +1,6 @@
 # Career Coach Agent 🎯
 
-A single-agent AI application that helps Nigerian tech students and early-career professionals with career guidance, CV/resume feedback, skill-gap analysis, and job search strategy — grounded in the Nigerian job market.
+A single-agent AI application that helps Nigerian tech students and early-career professionals with career guidance, CV/resume feedback, skill-gap analysis, and job search strategy grounded in the Nigerian job market.
 
 **Live App:** [https://mukty20-career-coach-agent-app-ypdfsm.streamlit.app/](https://mukty20-career-coach-agent-app-ypdfsm.streamlit.app/)
 **Demo Video:** [Add your Google Drive video URL here]
@@ -9,7 +9,7 @@ A single-agent AI application that helps Nigerian tech students and early-career
 
 ## The Problem
 
-Nigerian tech students and bootcamp graduates often struggle to get personalized, current career guidance. Generic advice online doesn't account for the local job market (salary ranges, in-demand roles, common entry points), and most students don't have access to a career coach who can review their actual CV and give specific, actionable feedback. This agent fills that gap — combining an LLM with real CV parsing, live web search, and a curated knowledge base of Nigerian career resources.
+Nigerian tech students and bootcamp graduates often struggle to get personalized, current career guidance. Generic advice online doesn't account for the local job market (salary ranges, in-demand roles, common entry points), and most students don't have access to a career coach who can review their actual CV and give specific, actionable feedback. This agent fills that gap combining an LLM with real CV parsing, live web search, and a curated knowledge base of Nigerian career resources.
 
 ## How It Works
 
