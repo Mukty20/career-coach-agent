@@ -3,7 +3,7 @@
 A single-agent AI application that helps Nigerian tech students and early-career professionals with career guidance, CV/resume feedback, skill-gap analysis, and job search strategy grounded in the Nigerian job market.
 
 **Live App:** [https://mukty20-career-coach-agent-app-ypdfsm.streamlit.app/](https://mukty20-career-coach-agent-app-ypdfsm.streamlit.app/)
-**Demo Video:** [Add your Google Drive video URL here]
+**Demo Video:** [https://drive.google.com/file/d/1ySSDUUbfH2pK-0gCJCVdcCSjFdjuKY2o/view?usp=drivesdk]
 
 ---
 
